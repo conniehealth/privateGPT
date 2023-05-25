@@ -3,6 +3,8 @@
 
 # Models
 models/
+source_documents_todo/
+source_documents/*.pdf
 
 # Local Chroma db
 .chroma/
